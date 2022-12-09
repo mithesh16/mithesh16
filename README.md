@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithesh</h1>
-<h3 align="center">Solidity developer</h3>
+<h2 align="center">Solidity developer</h2>
 
 - 🔭 I’m currently working on **DEFI and GameFI projects**
 
