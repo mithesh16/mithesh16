@@ -16,5 +16,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=solidity,js,html,css,figma,react,python" />
-  <img src="https://skillicons.dev/icons?i=ethereum" />
+
   
