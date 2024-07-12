@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mithesh</h1>
-<h2 align="center">Solidity developer</h2>
+<h2 align="center">I'm a Full Stack Developer</h2>
 
-- 🔭 I’m currently working on **DEFI and GameFI projects**
+- 🔭 I build websites in web2 and web3.
 
-- 🌱 I’m currently learning **React**
+- 🌱 My Tech stack:<br/>
+- 🖥️ Frontend : React, Tailwind CSS <br/>
+- 🗄️ Backend :<br/>
+Web2 - Node.js, Express.js, <br/>
+Database: MongoDB, PostgreSQL<br/>
+Web3 - Solidity, Ethers.js
 
-- 💬 Ask me about **Solidity,Ethereum,Blockchain**
+- 💬 Ask me about **Full Stack,Solidity,Ethereum,Blockchain**
 
 - 📫 How to reach me **mitheshsrini@gmail.com**
+- 💻 My Portfolio **https://mitheshsrini.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +21,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=solidity,js,html,css,figma,react,python" />
+  <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,express,mysql,solidity,js,html,css," />
 
   
