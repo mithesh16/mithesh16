@@ -10,7 +10,7 @@ Web2 - Node.js, Express.js, <br/>
 Database: MongoDB, PostgreSQL<br/>
 Web3 - Solidity, Ethers.js
 
-- 💬 Ask me about **Full Stack,Solidity,Ethereum,Blockchain**
+- 💬 Ask me about **Full Stack,Solidity,Ethereum,Blockchain,MERN**
 
 - 📫 How to reach me **mitheshsrini@gmail.com**
 - 💻 My Portfolio **https://mitheshsrini.netlify.app/**
